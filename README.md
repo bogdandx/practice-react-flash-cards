@@ -1,1 +1,3 @@
-# practice-react-flash-cards
+Flash Cards
+
+![screenshot](screenshot.png)
